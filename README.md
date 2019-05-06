@@ -1,5 +1,9 @@
 # 2019年计算机保研夏令营
-可以参考[去年](https://github.com/dhx000/CSBaoYan2018)，排名不分先后
+可以参考[去年](https://github.com/dhx000/CSBaoYan2018)
+
+院校排名将按照院校关注度定期更新（暂定每周六更新）
+
+[![Feature Requests](http://feathub.com/Smlight/CSBaoYan2019?format=svg)](http://feathub.com/Smlight/CSBaoYan2019)
 
 ## 清华大学
 ~~【报名截止】[清华大学交叉信息研究院优秀大学生夏令营](http://admission.iiis.tsinghua.edu.cn/2019/)~~
