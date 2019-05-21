@@ -19,7 +19,7 @@
 【6.12网申截止6.14邮寄截止】[北京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)
 
 ## 复旦大学
-【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://lsfb.fudan.edu.cn/a0/f6/c13972a172278/page.htm)
+【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://www.cs.fudan.edu.cn/?p=26873)
 
 【6.10截止】[2019年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/a1/81/c13543a172417/page.htm)
 
@@ -42,6 +42,8 @@
 【6.30截止】[2019年**沈阳计算所**大学生暑期夏令营通知](http://www.sict.cas.cn/yjsjy/zs/201904/t20190423_4547892.html)
 
 【6.21截止】[中科院**自动化所**“智能计算与控制”大学生暑期学校](https://mp.weixin.qq.com/s/CsQUWlbhltQMHGqKB9U83g)
+
+【6.25截止】[中国科学院**深圳先进技术研究院**2019年大学生夏令营](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201904/t20190426_5282013.html)
 
 ## 华东师范大学
 【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)
@@ -66,6 +68,8 @@
 
 ## 中国人民大学
 【6.1截止】[中国人民大学信息学院2019年优秀大学生夏令营招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=1955)
+
+【6.1截止】[高瓴人工智能学院2019年优秀大学生夏令营招生简章](http://ai.ruc.edu.cn/xwgg/gg/b455ce0683a74a2397475ab5c860f333.htm?from=timeline&isappinstalled=0)
 
 ## 上海交通大学
 【6.20截止】[上海交通大学电子信息与电气工程学院2020级研究生优秀生源选拔通知](http://www.seiee.sjtu.edu.cn/yjb/info/15056.htm)
