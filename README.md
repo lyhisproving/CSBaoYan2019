@@ -27,9 +27,9 @@
 【7.10截止】[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
 
 ## 南京大学
-【5.20截止】[LAMDA招收2020年秋季入学研究生说明](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm)
+~~【报名截止】[LAMDA招收2020年秋季入学研究生说明](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm)~~
 
-【5.20截止】[软件所招收2019/2020年秋季入学研究生说明](http://moon.nju.edu.cn/recruit/)
+~~【报名截止】[软件所招收2019/2020年秋季入学研究生说明](http://moon.nju.edu.cn/recruit/)~~
 
 【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)
 
