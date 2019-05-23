@@ -45,6 +45,8 @@
 
 【6.25截止】[中国科学院**深圳先进技术研究院**2019年大学生夏令营](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201904/t20190426_5282013.html)
 
+【6.16截止】[2019年“计算未来”全国大学生计算技术暑期研修班（**计算所**）](http://www.ict.cas.cn/shye/tzgg/201905/t20190523_5301249.html?tdsourcetag=s_pctim_aiomsg)
+
 ## 华东师范大学
 【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)
 
