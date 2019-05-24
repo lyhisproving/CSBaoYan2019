@@ -34,7 +34,11 @@
 【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)
 
 ## 中国科学技术大学
+【6.15截止】[第六届（2019年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=677)
+
 【6.15截止】[2019年第六届计算机科学暑期夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=641)
+
+【6.15截止】[2019年第二届大学生大数据夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=650)
 
 ## 中科院研究所
 【6.16截止】[2019年全国大学生“软件与网络”夏令营（**软件所**）](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201904/t20190424_5281117.html)
