@@ -10,7 +10,7 @@
 
 【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
 
-【截止时间未知】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营预通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2019/20190510163815165417674/20190510163815165417674_.html)
+【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)
 
 ## 北京大学
 
@@ -51,6 +51,8 @@
 
 【6.16截止】[2019年“计算未来”全国大学生计算技术暑期研修班（**计算所**）](http://www.ict.cas.cn/shye/tzgg/201905/t20190523_5301249.html?tdsourcetag=s_pctim_aiomsg)
 
+【6.16截止】[中国科学院信息工程研究所2019年“网络空间安全技术”全国优秀大学生夏令营报名通知(**信工所**)](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/201905/t20190524_5301824.html)
+
 ## 华东师范大学
 【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)
 
@@ -85,3 +87,6 @@
 
 ## 中山大学
 【6.10截至】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)
+
+# 浙江大学
+【6.15截止】[浙江大学计算机学院招收2019年暑期实习生计划](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101084&object_id=733951)
