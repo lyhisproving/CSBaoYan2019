@@ -65,7 +65,6 @@
 
 ## 浙江大学
 【6.16截止】[浙江大学网络空间安全研究中心2019年物联网夏令营](http://u9216776.viewer.maka.im/pcviewer/41E3JO81W9216776)
-【6.15截止】[浙江大学计算机学院招收2019年暑期实习生计划](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101084&object_id=733951)
 
 ## 上海科技大学
 【6.30截止】[上海科技大学信息科学与技术学院2019年优秀大学生夏令营活动通知](http://sist.shanghaitech.edu.cn/2019/0430/c2825a42050/page.htm)
@@ -88,3 +87,6 @@
 
 ## 中山大学
 【6.10截至】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)
+
+# 浙江大学
+【6.15截止】[浙江大学计算机学院招收2019年暑期实习生计划](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101084&object_id=733951)
