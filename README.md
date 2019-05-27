@@ -87,5 +87,21 @@
 * 直博（上海、西安）报名时间：5.10 - 6.3
 * 直硕报名时间：5.10 - 6.20
 
+【6.20截止】[上海交通大学“2019软件学院优才夏令营”](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=13182)
+
+【6.30截止】[上海交通大学密西根学院夏令营](umji.sjtu.edu.cn/cn/news/2019-0507-0932/)
+
 ## 中山大学
 【6.10截至】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)
+
+## 哈工大深圳
+【6.17截止】[哈尔滨工业大学（深圳）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
+
+## 南开大学
+【5.31截止】[2019年南开大学“活力软件”优秀大学生夏令营](http://cs.nankai.edu.cn/index.php/zh/2016-12-05-17-40-18/1781-2019-24)
+
+【6.2截止】[南开大学人工智能学院2019年全国优秀大学生夏令营](http://ai.nankai.edu.cn/articleDetail/init.action?seqId=6815e46dc5e74427960d5b900d4e57a4&channelId=c_0107&returnFlag=returnList)
+
+【外出推免】[2019年南开大学计算机学院接收推免生招生信息](http://cc.nankai.edu.cn/news/news-detail/17630)
+
+南京（5月25日）、武汉(5月26日)、大连（6月1日）、西安（6月2、3日）、青岛（6月15日）
