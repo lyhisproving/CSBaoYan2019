@@ -105,3 +105,6 @@
 【外出推免】[2019年南开大学计算机学院接收推免生招生信息](http://cc.nankai.edu.cn/news/news-detail/17630)
 
 南京（5月25日）、武汉(5月26日)、大连（6月1日）、西安（6月2、3日）、青岛（6月15日）
+
+## 北京理工大学
+【6.2截止】[2019年北京理工大学计算机学院暑期学术夏令营通知](http://cs.bit.edu.cn/tzgg/148643.htm?from=timeline&isappinstalled=0&tdsourcetag=s_pctim_aiomsg)
