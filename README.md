@@ -51,7 +51,7 @@
 
 【6.16截止】[2019年“计算未来”全国大学生计算技术暑期研修班（**计算所**）](http://www.ict.cas.cn/shye/tzgg/201905/t20190523_5301249.html?tdsourcetag=s_pctim_aiomsg)
 
-【6.16截止】[中国科学院信息工程研究所2019年“网络空间安全技术”全国优秀大学生夏令营报名通知(**信工所**)](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/201905/t20190524_5301824.html)
+【6.16截止】[中国科学院信息工程研究所2019年“网络空间安全技术”全国优秀大学生夏令营报名通知（**信工所**）](http://www.iie.ac.cn/yjsjy_101173/yjszxtz/201905/t20190524_5301824.html)
 
 ## 华东师范大学
 【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)
@@ -108,3 +108,6 @@
 
 ## 北京理工大学
 【6.2截止】[2019年北京理工大学计算机学院暑期学术夏令营通知](http://cs.bit.edu.cn/tzgg/148643.htm?from=timeline&isappinstalled=0&tdsourcetag=s_pctim_aiomsg)
+
+## 武汉大学
+【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)
