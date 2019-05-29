@@ -119,3 +119,6 @@
 
 ## 国防科学技术大学
 【7.20截止】[关于开展2019年优秀大学生夏令营活动的通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=414)
+
+## 电子科技大学（成都）
+【6.24截止】[电子科技大学2019年“计算机（网安）”全国优秀大学生暑期夏令营通知](http://www.ccse.uestc.edu.cn/view?type=55&id=19540)
