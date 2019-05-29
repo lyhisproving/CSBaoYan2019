@@ -18,10 +18,15 @@
 
 【6.12网申截止6.14邮寄截止】[北京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)
 
+【6.22截止】[北京大学信息工程学院关于举办 “2019年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/2019/anotice_0529/2236.html)
+
 ## 复旦大学
 【6.15截止】[2019年复旦大学计算机科学技术学院和软件学院全国优秀大学生夏令营活动报名通知](http://www.cs.fudan.edu.cn/?p=26873)
 
 【6.10截止】[2019年复旦大学工程与应用技术研究院全国优秀大学生夏令营通知](http://faet.fudan.edu.cn/a1/81/c13543a172417/page.htm)
+
+## 同济大学
+[同济大学2019年优秀学生暑期学校活动通知（陆续更新中）](http://yz.tongji.edu.cn/info/1010/1476.htm)
 
 ## 东南大学
 【7.10截止】[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
