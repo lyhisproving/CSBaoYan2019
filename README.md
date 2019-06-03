@@ -73,6 +73,8 @@
 
 【6.15截止】[浙江大学计算机学院招收2019年暑期实习生计划](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101084&object_id=733951)
 
+【6.16截止】[浙江大学软件学院2019年优秀大学生夏令营通知](http://www.cst.zju.edu.cn/index.php?c=Index&a=detail&catid=16&id=4644)
+
 ## 上海科技大学
 【6.30截止】[上海科技大学信息科学与技术学院2019年优秀大学生夏令营活动通知](http://sist.shanghaitech.edu.cn/2019/0430/c2825a42050/page.htm)
 
