@@ -118,7 +118,7 @@
 
 ## 武汉大学
 【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)
-
+【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1085)
 ## 国防科学技术大学
 【7.20截止】[关于开展2019年优秀大学生夏令营活动的通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=414)
 
